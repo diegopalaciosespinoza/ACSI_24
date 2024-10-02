@@ -8,7 +8,7 @@ st.title("Comparación de Sistemas Operativos: Linux, Windows y macOS")
 # Introducción
 st.header("Introducción")
 st.write("""
-Esta aplicación compara tres sistemas operativos principales: **Linux**, **Windows**, y **macOS**. A través de gráficos, tablas, e imágenes podrás explorar las diferencias clave entre estos sistemas operativos.
+Esta aplicación compara tres sistemas operativos principales: **Linux**, **Windows**, y **macOS**. 
 """)
 
 # Selección de secciones
