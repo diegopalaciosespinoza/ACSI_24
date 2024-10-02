@@ -39,7 +39,7 @@ elif opcion == "Interfaz de Usuario":
     - **Windows**: Un único entorno con barra de tareas y menú de inicio. Amplio uso de GUI.
     - **macOS**: Interfaz gráfica coherente y simple, popular entre los usuarios de productos Apple.
     """)
-    st.image("https://upload.wikimedia.org/wikipedia/commons/3/3e/Gnome-shell-40.png", caption="Entorno de Escritorio GNOME en Linux", use_column_width=True)
+    st.image("https://i.ytimg.com/vi/n0vJ-AEL1es/maxresdefault.jpg", caption="Entorno de Escritorio GNOME en Linux", use_column_width=True)
 
 # Gestión de GPU
 elif opcion == "Gestión de GPU":
@@ -90,7 +90,7 @@ elif opcion == "Comunidad y Soporte":
     - **Windows**: Soporte comercial por parte de Microsoft, amplia comunidad en línea.
     - **macOS**: Soporte oficial de Apple a través de AppleCare, pero con una comunidad más pequeña comparada con Linux.
     """)
-    st.image("https://upload.wikimedia.org/wikipedia/commons/3/37/Microsoft_windows_10_logo.png", caption="Logotipo de Windows", use_column_width=True)
+    st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2mJHtt39VBbSf7YCjw-Gh7sjOhe_gwcU0Iw&s", caption="Logotipo de Windows",width=600, use_column_width=True)
 
 # Gráficos Interactivos
 elif opcion == "Gráficos Interactivos":
